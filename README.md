@@ -1,2 +1,0 @@
-# useIntersectionObserver
-Created with CodeSandbox
